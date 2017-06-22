@@ -30,7 +30,7 @@ Unlike traditional software, SaaS is easily a readily accessible from almost any
 
 Cloud computing and software as a service can handle big data and storage which users can access easily and securely. The need for updates and upgrades of software is taken care of seamlessly to the cloud.
 
-#####Functionality and Usability
+##### Functionality and Usability
 
 A fair amount of the legal software for the last 15 to 20 yearsUndergone so many revisions yet still not developed for the future of cloud computing and Saas.
 
@@ -40,7 +40,7 @@ Cloud Software Solutions not only appeal to management services but also marketi
 
 With an increasingly wide range of features and functions, most SaaS applications are being created from the ground up. This has resulted in limited feature sets but more intuitive and contemporary design and interfaces.
 
-#####Marketing for the Future of Saas Software
+##### Marketing for the Future of Saas Software
 
 According to [americanbar.org](https://www.americanbar.org/groups/departments_offices/legal_technology_resources/resources/charts_fyis/saas.html) development and application of future attorney at law profession cloud-based software needs to address the following issues:
 
@@ -51,7 +51,7 @@ According to [americanbar.org](https://www.americanbar.org/groups/departments_of
 * Accessibility and feedback mechanisms
 * Service and support
 
-Additional Sources
+##### Additional Sources
 
 * [codrops](http://tympanus.net/codrops/)
 * [w3schools](http://www.w3schools.com/)
