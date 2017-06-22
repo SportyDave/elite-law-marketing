@@ -1,4 +1,4 @@
-# Digital Strategy and Design for Law Profession
+# Digital Strategy and Design for Law Professionals
 
 ## Online Tools and Resources: Legal Profession
 
