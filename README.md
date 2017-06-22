@@ -18,7 +18,8 @@ While the specialised software that is available is excellent, it is still yet t
 
 Cloud software seems to be where the future is that, providing case and practice management for attorneys as well as document collation and collaboration. The software is even available for trial presentations.
 
-However, much of this software Windows dependent. As law firms and attorneys seek to create a presence online through digital marketing and social media. The industry is also developing its own specialists in web design and search marketing https://www.elitelegalmarketing.com/blog/6-things-all-attorney-websites-must-include/ in order to compete in a highly competitive market.
+However, much of this software Windows dependent. As law firms and attorneys seek to create a presence online through digital marketing and social media. The industry is also developing its own [specialists in web design and search marketing](https://www.elitelegalmarketing.com/blog/6-things-all-attorney-websites-must-include/) in order to compete in a highly competitive market.
+
 As a result in these shifts, the development of cloud software is becoming energized.
 
 The need for cloud-based software is increasing as licensing nad maintenance of traditional software is becoming untenable in a mobile economy.
@@ -39,39 +40,19 @@ Cloud Software Solutions not only appeal to management services but also marketi
 
 With an increasingly wide range of features and functions, most SaaS applications are being created from the ground up. This has resulted in limited feature sets but more intuitive and contemporary design and interfaces.
 
-Marketing for the Future of Saas Software
+#####Marketing for the Future of Saas Software
 
-According to americanbar.org https://www.americanbar.org/groups/departments_offices/legal_technology_resources/resources/charts_fyis/saas.html development and application of future attorney at law profession cloud-based software needs to address the following issues:
+According to [americanbar.org](https://www.americanbar.org/groups/departments_offices/legal_technology_resources/resources/charts_fyis/saas.html) development and application of future attorney at law profession cloud-based software needs to address the following issues:
 
-Free trial periods and demo*s to test out the interface
-Features and benefits above traditional software
-Saas availability
-Rollout calendars for new features and enhancements
-Accessibility and feedback mechanisms
-Service and support
+* Free trial periods and demo*s to test out the interface
+* Features and benefits above traditional software
+* Saas availability
+* Rollout calendars for new features and enhancements
+* Accessibility and feedback mechanisms
+* Service and support
 
 Additional Sources
 
-
-
- Tutorials and References
-
-Sites that show you how to do stuff, usually with demos.
-
 * [codrops](http://tympanus.net/codrops/)
-* [codecademy](http://www.codecademy.com/)
-* [tutorialzine](http://tutorialzine.com/)
-* [tuts+](http://webdesign.tutsplus.com/)
 * [w3schools](http://www.w3schools.com/)
 * [mozilla developer](https://developer.mozilla.org/en-US/docs/Web)
-
-##### Webzines
-
-Articles and Resources (or links to resources), some graphic design stuff, News and the occasional tutorial.
-
-* [css-tricks](https://css-tricks.com/)
-* [speckyboy](http://speckyboy.com/)
-* [A list apart](http://alistapart.com/)
-* [smashing magazine](http://www.smashingmagazine.com/)
-* [creativebloq](http://www.creativebloq.com/tag/Web-design)
-* [designmodo](http://designmodo.com/)
